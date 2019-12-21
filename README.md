@@ -1,4 +1,5 @@
 # docker for go
+書籍「Docker/Kubernetes 実践コンテナ開発入門」のDockerサンプルの写経です。
 
 ## 使い方
 dockerイメージをビルドします。
